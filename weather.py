@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'd97bdd4365bfcb4fe7e184d1643084ed'  # Replace with your OpenWeatherMap API key
+api_key = ''  # Replace with your OpenWeatherMap API key
 api_address = f'http://api.openweathermap.org/data/2.5/weather?id=524901&appid={api_key}'
 
 def temp():
