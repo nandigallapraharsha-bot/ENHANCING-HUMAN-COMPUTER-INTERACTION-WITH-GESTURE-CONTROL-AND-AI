@@ -1,0 +1,519 @@
+1713179649456	geckodriver	INFO	Listening on 127.0.0.1:51384
+1713179652528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilez8Cyie"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713179652886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713179652988	Marionette	INFO	Listening on port 51392
+WebDriver BiDi listening on ws://127.0.0.1:51385
+Read port: 51392
+1713179653156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51385/devtools/browser/00959990-a90c-4c83-9d41-14bb437ac339
+1713179683661	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222394209	Marionette	INFO	Stopped listening on port 51392
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713205751367	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713205751478	Marionette	INFO	Listening on port 52643
+WebDriver BiDi listening on ws://127.0.0.1:52636
+Read port: 52643
+1713205751670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52636/devtools/browser/2b4f75cb-c559-4a93-bf7a-0dfec115e820
+1713205756238	Marionette	INFO	Stopped listening on port 52643
+Dynamically enable window occlusion 1
+1713205925042	geckodriver	INFO	Listening on 127.0.0.1:52687
+1713205928116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile1D0wwY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713205928504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713205928639	Marionette	INFO	Listening on port 52695
+WebDriver BiDi listening on ws://127.0.0.1:52688
+Read port: 52695
+1713205928883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52688/devtools/browser/338aa5c0-96b5-4edb-9027-ee041b2f5d35
+1713205958681	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222394309	Marionette	INFO	Stopped listening on port 52695
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+ting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713206005650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206005749	Marionette	INFO	Listening on port 52744
+WebDriver BiDi listening on ws://127.0.0.1:52737
+Read port: 52744
+1713206005920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52737/devtools/browser/cbd93d6c-3afe-4839-baa3-48367c9cddbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1713206036310	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+1713222394347	Marionette	INFO	Stopped listening on port 52744
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+ environment
+1713206166640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206166752	Marionette	INFO	Listening on port 52798
+WebDriver BiDi listening on ws://127.0.0.1:52791
+Read port: 52798
+1713206166909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52791/devtools/browser/50b18e37-cbae-4e84-b9e3-7e51a8ddc987
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1713206196832	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222349002	Marionette	INFO	Stopped listening on port 52798
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+ting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713206261743	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206261848	Marionette	INFO	Listening on port 52860
+WebDriver BiDi listening on ws://127.0.0.1:52851
+Read port: 52860
+1713206262023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52851/devtools/browser/bfa2bdaf-66f1-4a20-9c1f-7e39452777fc
+1713206292609	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222345995	Marionette	INFO	Stopped listening on port 52860
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713206337635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206337741	Marionette	INFO	Listening on port 52910
+WebDriver BiDi listening on ws://127.0.0.1:52903
+Read port: 52910
+1713206337903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52903/devtools/browser/50669873-da11-4617-aace-95666efa027a
+1713206368014	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222348938	Marionette	INFO	Stopped listening on port 52910
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713206424268	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206424370	Marionette	INFO	Listening on port 52961
+WebDriver BiDi listening on ws://127.0.0.1:52954
+Read port: 52961
+1713206424533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52954/devtools/browser/49e5d3d1-cb62-486e-9a33-9f5cae9bf474
+1713206454293	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222348812	Marionette	INFO	Stopped listening on port 52961
+Dynamically enable window occlusion 1
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ing-port" "53008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilen61xfH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713206548566	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206548663	Marionette	INFO	Listening on port 53015
+WebDriver BiDi listening on ws://127.0.0.1:53008
+Read port: 53015
+1713206548819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53008/devtools/browser/0509d6cb-f585-4e7e-9b5b-4df9c7aadafd
+1713206578609	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icoJavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713208423293	Marionette	INFO	Stopped listening on port 53064
+Dynamically enable window occlusion 1
+:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawik1713222345860	Marionette	INFO	Stopped listening on port 53120
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ector-2022&version=1satq:526:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=1satq:526:585
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713206740205	Marionette	INFO	Stopped listening on port 53015
+Dynamically enable window occlusion 1
+1713206944783	geckodriver	INFO	Listening on 127.0.0.1:53173
+1713206947846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilejbXkIx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713206948170	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713206948268	Marionette	INFO	Listening on port 53181
+WebDriver BiDi listening on ws://127.0.0.1:53174
+Read port: 53181
+1713206948427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53174/devtools/browser/b7025edd-a9d7-4b6d-9f35-d2fc8cdb2c52
+1713206979824	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222345868	Marionette	INFO	Stopped listening on port 53181
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713207090246	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713207090342	Marionette	INFO	Listening on port 53230
+WebDriver BiDi listening on ws://127.0.0.1:53223
+Read port: 53230
+1713207090501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53223/devtools/browser/3cba1400-0a0a-4ebd-a1d0-fff9a601629a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Csite%7Cext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.action.view.redirect%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1m5ll, line 273: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Csite%7Cext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.action.view.redirect%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1m5ll:273:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Csite%7Cext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.action.view.redirect%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1m5ll:273:585
+
+1713207100273	Marionette	INFO	Stopped listening on port 53230
+Dynamically enable window occlusion 1
+1713208071246	geckodriver	INFO	Listening on 127.0.0.1:53353
+1713208074289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4vKqXf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713208074549	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713208074647	Marionette	INFO	Listening on port 53361
+WebDriver BiDi listening on ws://127.0.0.1:53354
+Read port: 53361
+1713208074800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53354/devtools/browser/9e27d339-dc4e-4165-a88a-61dc0b9ebfae
+1713208104604	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713208105634	Marionette	INFO	Stopped listening on port 53361
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/ml-onnx-runtime getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1713208265982	geckodriver	INFO	Listening on 127.0.0.1:53405
+1713208269060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelKEtKg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713208269390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713208269494	Marionette	INFO	Listening on port 53413
+WebDriver BiDi listening on ws://127.0.0.1:53406
+Read port: 53413
+1713208269658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53406/devtools/browser/a4d3dd94-09c4-4707-811e-27eb321de9e1
+1713208282482	Marionette	INFO	Stopped listening on port 53413
+Dynamically enable window occlusion 1
+1713209650463	geckodriver	INFO	Listening on 127.0.0.1:53564
+1713209653529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofiledzttNu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713209653889	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713209653997	Marionette	INFO	Listening on port 53572
+WebDriver BiDi listening on ws://127.0.0.1:53565
+Read port: 53572
+1713209654203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53565/devtools/browser/d64104f8-48a7-4b86-926a-a55f52ca1ee5
+1713209670939	Marionette	INFO	Stopped listening on port 53572
+Dynamically enable window occlusion 1
+1713210250621	geckodriver	INFO	Listening on 127.0.0.1:53632
+1713210253704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile5cgDUL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713210253960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713210254061	Marionette	INFO	Listening on port 53640
+WebDriver BiDi listening on ws://127.0.0.1:53633
+Read port: 53640
+1713210254216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53633/devtools/browser/8f8fac47-30dd-4041-b7a0-d63c797927a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1713210284657	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713222345994	Marionette	INFO	Stopped listening on port 53640
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+e.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713210418972	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713210419074	Marionette	INFO	Listening on port 53695
+WebDriver BiDi listening on ws://127.0.0.1:53688
+Read port: 53695
+1713210419242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53688/devtools/browser/72414b0c-964b-4643-ad88-51e82958f681
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=10q4g, line 528: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=10q4g:528:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=10q4g:528:585
+
+1713210428095	Marionette	INFO	Stopped listening on port 53695
+Dynamically enable window occlusion 1
+1713211020977	geckodriver	INFO	Listening on 127.0.0.1:53857
+1713211024046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilel2AkrD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713211024446	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713211024554	Marionette	INFO	Listening on port 53866
+WebDriver BiDi listening on ws://127.0.0.1:53858
+Read port: 53866
+1713211024738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53858/devtools/browser/6d187e6b-6b13-4770-b8f1-73cc3ba118a6
+1713211042249	Marionette	INFO	Stopped listening on port 53866
+Dynamically enable window occlusion 1
+1713211043472	geckodriver	INFO	Listening on 127.0.0.1:53908
+1713211046552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilejy2mGl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713211046842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713211046945	Marionette	INFO	Listening on port 53917
+WebDriver BiDi listening on ws://127.0.0.1:53909
+Read port: 53917
+1713211047090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53909/devtools/browser/61c034dd-34b3-4e1e-b69a-7fe42cc01057
+1713211054686	Marionette	INFO	Stopped listening on port 53917
+Dynamically enable window occlusion 1
+1713211081758	geckodriver	INFO	Listening on 127.0.0.1:53958
+1713211084820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile6QEr2G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713211085073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713211085171	Marionette	INFO	Listening on port 53968
+WebDriver BiDi listening on ws://127.0.0.1:53959
+Read port: 53968
+1713211085322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53959/devtools/browser/74da6c12-e29a-45d4-bd3b-cbe41d722f43
+1713211115232	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/3pcSFWJI7a5SNv89Az7bTi6V80M4jnn3bPXR3H-Ku18.js line 2 > eval line 7302 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1713222345193	Marionette	INFO	Stopped listening on port 53968
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/3pcSFWJI7a5SNv89Az7bTi6V80M4jnn3bPXR3H-Ku18.js line 2 > eval, line 7302: TypeError: can't access dead object
+JavaScript error: , line 0: uncaught exception: Error: PlayerProxy error in method call
+s://127.0.0.1:54150/devtools/browser/0bc3872d-00ab-4921-910e-f0424a03929a
+1713211324713	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js, line 7996: TypeError: can't access dead object
+1713222349056	Marionette	INFO	Stopped listening on port 54159
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=dynamite%20by%20bts, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/3pcSFWJI7a5SNv89Az7bTi6V80M4jnn3bPXR3H-Ku18.js line 2 > eval, line 437: TypeError: can't access dead object
+JavaScript error: , line 0: uncaught exception: Error: PlayerProxy error in method call
+ts/gecko/dom/media/AudioStream.cpp:320
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jEj2r6i6bsc0VB6uHoQUQQ2947lzbc5AgvliLjsv7zQ.js line 2 > eval line 662 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/3pcSFWJI7a5SNv89Az7bTi6V80M4jnn3bPXR3H-Ku18.js line 2 > eval line 851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10048, MediaDecoderStateMachine #1] WARNING: 22b895d35e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript warning: https://www.google.com/js/th/3pcSFWJI7a5SNv89Az7bTi6V80M4jnn3bPXR3H-Ku18.js line 2 > eval line 851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10048, MediaDecoderStateMachine #1] WARNING: 22b88242700 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript warning: https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js, line 3381: Script terminated by timeout at:
+AMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3381:17
+rMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3378:22
+LMa/a.destroy@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3391:53
+jNa/d.onDispose@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3430:33
+RMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3402:82
+TMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3401:44
+RMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3402:93
+TMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3401:44
+RMa@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3402:93
+tt/<@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:3398:31
+FQ/c.prototype.disconnectedCallback@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:13781:50
+ykb/d.prototype.removeChild</<@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:7051:406
+removeChild@https://www.youtube.com/s/desktop/e57c4f65/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:66:192
+k.removeChild@https://www.youtube.com/s/desktop/e57c4f65/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:121:559
+ykb/d.prototype.removeChild</<@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:7051:406
+S0b@https://www.youtube.com/s/desktop/e57c4f65/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:13743:69
+S@https://www.youtube.com/s/desktop/e57c4f65/jsbin/scheduler.vflset/scheduler.js:44:19
+V@https://www.youtube.com/s/desktop/e57c4f65/jsbin/scheduler.vflset/scheduler.js:53:415
+g.P@https://www.youtube.com/s/desktop/e57c4f65/jsbin/scheduler.vflset/scheduler.js:46:80
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1713212011030	Marionette	INFO	Stopped listening on port 54639
+Dynamically enable window occlusion 1
+1713212304348	geckodriver	INFO	Listening on 127.0.0.1:54954
+1713212307419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileVmhWNs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713212307730	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713212307830	Marionette	INFO	Listening on port 54963
+WebDriver BiDi listening on ws://127.0.0.1:54955
+Read port: 54963
+1713212307985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54955/devtools/browser/88d15e20-0531-47dd-a6aa-ba45c4ce6fa5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1713212325905	Marionette	INFO	Stopped listening on port 54963
+Dynamically enable window occlusion 1
+1713231949998	geckodriver	INFO	Listening on 127.0.0.1:49946
+1713231953063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilerhsdP7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713231953678	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713231953865	Marionette	INFO	Listening on port 49954
+WebDriver BiDi listening on ws://127.0.0.1:49947
+Read port: 49954
+1713231953998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49947/devtools/browser/d91d6c89-6a4c-4162-b626-5729b3fa5e92
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=10q4g, line 528: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=10q4g:528:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=10q4g:528:585
+
+1713231972545	Marionette	INFO	Stopped listening on port 49954
+Dynamically enable window occlusion 1
+1713845232393	geckodriver	INFO	Listening on 127.0.0.1:49225
+1713845235506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileaLZFNP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713845237004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713845237536	Marionette	INFO	Listening on port 49233
+WebDriver BiDi listening on ws://127.0.0.1:49226
+Read port: 49233
+1713845238174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49226/devtools/browser/e5ede610-3d06-40e7-ae6b-f49f09f78777
+JavaScript warning: https://www.youtube.com/s/desktop/050e6796/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js, line 1741: Script terminated by timeout at:
+Qsa/this.done</<@https://www.youtube.com/s/desktop/050e6796/jsbin/desktop_polymer_enable_poly_si.vflset/desktop_polymer_enable_poly_si.js:1741:174
+
+1713845261904	Marionette	INFO	Stopped listening on port 49233
+Dynamically enable window occlusion 1
+1713848656780	geckodriver	INFO	Listening on 127.0.0.1:49756
+1713848659860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileIrmHsh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713848660342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713848660470	Marionette	INFO	Listening on port 49764
+WebDriver BiDi listening on ws://127.0.0.1:49757
+Read port: 49764
+1713848660680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49757/devtools/browser/10bc152f-65fc-4bc6-b0f7-084c1bb29e04
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=g94go, line 528: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=g94go:528:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%2Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.interface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js&skin=vector-2022&version=g94go:528:585
+
+1713848682523	Marionette	INFO	Stopped listening on port 49764
+Dynamically enable window occlusion 1
+1713866122416	geckodriver	INFO	Listening on 127.0.0.1:64831
+1713866125505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileObVk5j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713866125982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713866126109	Marionette	INFO	Listening on port 64839
+WebDriver BiDi listening on ws://127.0.0.1:64832
+Read port: 64839
+1713866126290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64832/devtools/browser/0e527195-9123-419f-aa71-d89da10bbdc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1713866156247	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713952555944	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1713982742902	Marionette	INFO	Stopped listening on port 64839
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1715014386846	geckodriver	INFO	Listening on 127.0.0.1:54626
+1715014389889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile4zTJoe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715014390414	Marionette	INFO	Marionette enabled
+1715014390562	Marionette	INFO	Listening on port 54634
+WebDriver BiDi listening on ws://127.0.0.1:54627
+Read port: 54634
+1715014390789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54627/devtools/browser/d364dc4d-d8e9-48f4-8929-1bb5c4384646
+1715014399011	Marionette	INFO	Stopped listening on port 54634
+Dynamically enable window occlusion 1
+1715014418244	geckodriver	INFO	Listening on 127.0.0.1:54671
+1715014421303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePQg5vf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715014421709	Marionette	INFO	Marionette enabled
+1715014421844	Marionette	INFO	Listening on port 54679
+WebDriver BiDi listening on ws://127.0.0.1:54672
+Read port: 54679
+1715014422044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54672/devtools/browser/64991eb5-3120-4167-8036-fa9b5970cb82
+JavaScript warning: https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 7743: Script terminated by timeout at:
+dob@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7743:34
+$nb/d.prototype.setAttribute</<@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7737:160
+f.attached@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:15053:81
+FYa/e.prototype.attached@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:5075:119
+Zy</a.prototype.connectedCallback@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:5003:192
+vmb</d.prototype.connectedCallback@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7500:152
+tF@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7726:209
+$nb/d.prototype.appendChild</<@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7730:104
+insertBefore@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:64:462
+k.insertBefore@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:121:489
+$nb/d.prototype.insertBefore</<@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7728:487
+stampDomArraySplices_@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:13883:426
+rendererStamperApplyChangeRecord_@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:13879:12
+rendererStamperObserver_@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:13876:149
+uVa@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4497:119
+Dx@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4479:218
+Gx</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4531:124
+zmb</b.prototype._propertiesChanged@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:7510:309
+KUa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4402:200
+Gx</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4523:69
+Gx</a.prototype.notifyPath@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4546:182
+GVa@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4504:91
+Ex@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4505:29
+Gx</a.prototype.push@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:4541:130
+fillRange_@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:15624:117
+renderChunk_@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:15628:180
+hZb/this.wrappedJob@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/desktop_polymer.vflset/desktop_polymer.js:13624:145
+S@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/scheduler.vflset/scheduler.js:44:19
+V@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/scheduler.vflset/scheduler.js:53:415
+g.S@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/scheduler.vflset/scheduler.js:49:84
+window.requestAnimationFrame/<@https://www.youtube.com/s/desktop/7c0eb0c2/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js:96:192
+
+1715014432166	Marionette	INFO	Stopped listening on port 54679
+Dynamically enable window occlusion 1
+1715020651187	geckodriver	INFO	Listening on 127.0.0.1:55682
+1715020654230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileJxEJCR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715020654797	Marionette	INFO	Marionette enabled
+1715020654947	Marionette	INFO	Listening on port 55690
+WebDriver BiDi listening on ws://127.0.0.1:55683
+Read port: 55690
+1715020655251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55683/devtools/browser/b5638ede-d35a-4f17-95e5-53a6186b3ac9
+1715020686362	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
